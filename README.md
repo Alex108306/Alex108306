@@ -2,7 +2,7 @@
 
 I'm working on AI and Robotics.
 
-[Website](https://alex108306.github.io/htgiangnguyen.github.io/) | [CV](https://drive.google.com/file/d/1UsiNzsQ4mgLXIKSp8rmJZ2UpX93YptMX/view?usp=drive_link) | [Google Scholar](https://scholar.google.com/citations?user=fRvekysAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/giang-nguyen-0033272aa)
+[Website](https://alex108306.github.io/htgiangnguyen.github.io/) | [CV](https://drive.google.com/file/d/1IDO2ntHcrz9GKJafjX7Rwtqlj-nVU-Bg/view?usp=sharing) | [Google Scholar](https://scholar.google.com/citations?user=fRvekysAAAAJ&hl=en) | [LinkedIn](https://www.linkedin.com/in/giang-nguyen-0033272aa)
 
 **Currently:**
 
