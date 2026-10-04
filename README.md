@@ -2,7 +2,7 @@
 
 I'm working on AI and Robotics.
 
-[Website](https://YOUR_GITHUB_USERNAME.github.io) | [CV](https://YOUR_GITHUB_USERNAME.github.io/cv/) | [Google Scholar](https://scholar.google.com/citations?user=TODO) | [LinkedIn](https://www.linkedin.com/in/TODO)
+[Website](https://alex108306.github.io) | [CV](https://alex108306.github.io/cv/) | [Google Scholar](https://scholar.google.com/citations?user=TODO) | [LinkedIn](https://www.linkedin.com/in/TODO)
 
 **Currently:**
 
